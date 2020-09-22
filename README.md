@@ -114,7 +114,7 @@ OR
 <p align = "center">
 
   <code><a href="https://www.vim.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></a></code>
-  <code><a href="https://www.kali.org/" target="_blank"><img height="50" src="https://www.coresentinel.com/wp-content/uploads/2017/06/kali.png"></a></code>
+  <code><a href="https://www.kali.org/" target="_blank"><img height="50" src="https://images.techhive.com/images/article/2016/02/kali-linux-logo-100645937-orig.jpg"></a></code>
   
 
 </details>
