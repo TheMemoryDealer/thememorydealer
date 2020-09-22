@@ -24,11 +24,11 @@ I am a post graduate computer scientist on a mission to one day become one of th
 ## My Stack
 
 <details>
-<summary>👷 <b>Currently working with:</b></summary>
+<summary><b>Currently working with:</b></summary>
 
 <p align = "center">
 
-  <code><a href="https://ubuntu.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></a></code>
+  <code><a href="https://ubuntu.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
   <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
   <code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.theconstructsim.com/wp-content/uploads/2015/10/rosLarge.png"></a></code>
 </p>
