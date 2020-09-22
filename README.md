@@ -109,7 +109,7 @@ OR
 
 
 <details>
-<summary><b>Always trying to master:</b></summary>
+<summary><b>Always trying to be better at:</b></summary>
 
 <p align = "center">
 
