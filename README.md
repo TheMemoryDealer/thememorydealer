@@ -1,4 +1,4 @@
-## Hi 👋 I'm Maz, but you probably know me as TheMemoryDealer
+## About
 
 I am a post graduate computer scientist on a mission to one day become one of the best experts in robotics vision systems. I am currently enlisted with the AgriFoRwArdS CDT in Agri-Food Robotics doing a MSc->PhD. 
 
@@ -7,7 +7,7 @@ I am a post graduate computer scientist on a mission to one day become one of th
 - 🔧 Willing to contribute to open source development projects.
 - 📓 Always looking for opportunities to join as a Computer Vision intern.
 
-## Connect with me
+## Connect
 
 <p align = "center">
 
