@@ -7,7 +7,7 @@ I am a post graduate computer scientist on a mission to one day become one of th
 - 🔧 Willing to contribute in opensource development projects.
 - 📓 Always looking for opportunities to join as a Computer Vision intern.
 
-<details><summary><h1>Connect with me</h1></summary>
+<details><summary><h2>Connect with me</h2></summary>
 <br>
 
 <p align = "center">
