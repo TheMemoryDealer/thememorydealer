@@ -9,7 +9,6 @@ I am a post graduate computer scientist on a mission to one day become one of th
 
 <details><summary><h1>Connect with me</h1></summary>
 <br>
-This is how you dropdown with a header.
 
 <p align = "center">
 
