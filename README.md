@@ -41,7 +41,9 @@ I am a post graduate computer scientist on a mission to one day become one of th
 
 <p align = "center">
 
-  <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></a></code>
+  <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+  <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></a></code>
+  <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 </p>
 
 </details>
