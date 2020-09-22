@@ -8,6 +8,9 @@ I am a post graduate computer scientist on a mission to one day become one of th
 - 📓 Always looking for opportunities to join as a Computer Vision intern.
 
 ## Connect with me
+[![StackOverflow Badge](https://img.shields.io/badge/-piraces-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/4064162/piraces)](https://stackoverflow.com/users/4064162/piraces)
+
+
 <p align = "center">
 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mazvydas-gudelis-a46444168/)
