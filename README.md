@@ -104,6 +104,20 @@ OR
 </p>
 
 </details>
+
+
+
+
+<details>
+<summary><b>Always trying to master:</b></summary>
+
+<p align = "center">
+
+  <code><a href="https://www.vim.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></a></code>
+  <code><a href="https://www.kali.org/" target="_blank"><img height="50" src="https://www.coresentinel.com/wp-content/uploads/2017/06/kali.png"></a></code>
+  
+
+</details>
 <!--
 **TheMemoryDealer/thememorydealer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
