@@ -51,12 +51,11 @@ I am a post graduate computer scientist on a mission to one day become one of th
 OR
 <p align = "center">
 
-  <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-  <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></a></code>
-  <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
-  <code><a href="https://reactnative.dev/" target="_blank"><img height="50" src="https://originapps.io/wp-content/uploads/2019/03/React-Native.png"></a></code>
-  <code><a href="https://redux.js.org/introduction/getting-started" target="_blank"><img height="50" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/redux.svg"></a></code>
-  <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+  <code><a href="https://www.apple.com/uk/swift/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"></a></code>
+  <code><a href="https://developer.apple.com/xcode/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></a></code>
+  <code><a href="https://developer.apple.com/documentation/spritekit" target="_blank"><img height="50" src="https://thetool.io/wp-content/uploads/2018/04/spritekit-mobile-game-development.png"></a></code>
+  <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
+  <code><a href="https://developer.apple.com/augmented-reality/" target="_blank"><img height="50" src="https://www.viewar.com/media/2019/12/logo_arkit.png"></a></code>
 </p>
 
 </details>
