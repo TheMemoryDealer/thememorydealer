@@ -109,7 +109,7 @@ OR
 
 
 <details>
-<summary><b>Always trying to be better at:</b></summary>
+<summary><b>Long term goals:</b></summary>
 
 <p align = "center">
 
