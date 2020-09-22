@@ -2,6 +2,7 @@
 
 I am a post graduate computer scientist on a mission to one day become one of the best experts in robotics vision systems. I am currently enlisted with the AgriFoRwArdS CDT in Agri-Food Robotics doing a MSc(Robotics and Autonomous Systems)->PhD(Computer Vision). 
 
+- ☕ Full-stack app/web developer with industry experience.
 - 💻 Currently deep into Linux and ROS.
 - 🤝 Open for colaboration, try me.
 - 🔧 Willing to contribute to open source development projects.
