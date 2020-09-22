@@ -47,7 +47,8 @@ I am a post graduate computer scientist on a mission to one day become one of th
   <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
   <code><a href="https://reactnative.dev/" target="_blank"><img height="50" src="https://originapps.io/wp-content/uploads/2019/03/React-Native.png"></a></code>
   <code><a href="https://redux.js.org/introduction/getting-started" target="_blank"><img height="50" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/redux.svg"></a></code>
-  <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+  <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>or
+  <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a></code>
 </p>
 OR
 <p align = "center">
