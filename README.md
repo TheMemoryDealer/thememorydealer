@@ -10,7 +10,6 @@ I am a post graduate computer scientist on a mission to one day become one of th
 ## Connect with me
 <p align = "center">
 
-   <! -- <img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pr2tik1.github.io/)-->[
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mazvydas-gudelis-a46444168/)
   [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/mazvydas.gudelis) 
   
