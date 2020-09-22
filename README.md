@@ -88,6 +88,21 @@ OR
 
 </details>
 
+
+<details>
+<summary><b>Deep learning tools:</b></summary>
+
+<p align = "center">
+
+  <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+  <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+  <code><a href="https://keras.io/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras-text.svg"></a></code>
+  <code><a href="https://numpy.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+  <code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>or
+  <code><a href="https://pillow.readthedocs.io/en/stable/#" target="_blank"><img height="50" src="https://repository-images.githubusercontent.com/5171600/28cb0300-7e53-11ea-86e8-ba321370c31a"></a></code>
+</p>
+
+</details>
 <!--
 **TheMemoryDealer/thememorydealer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
