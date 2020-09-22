@@ -18,7 +18,7 @@ I am a post graduate computer scientist on a mission to one day become one of th
 </p>
 
 ## My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thememorydealer&layout=compact&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thememorydealer&layout=compact&theme=graywhite&&langs_count=10)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thememorydealer&show_icons=true&theme=graywhite&line_height=20&count_private=true)
 
 
