@@ -115,6 +115,9 @@ OR
 
   <code><a href="https://www.vim.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></a></code>
   <code><a href="https://www.kali.org/" target="_blank"><img height="50" src="https://www.unixmen.com/wp-content/uploads/2015/11/Kali_Linux_Logo.png"></a></code>
+  <code><a href="https://www.learn-c.org/" target="_blank"><img height="50" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png"></a></code>
+  <code><a href="https://isocpp.org/" target="_blank"><img height="50" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png"></a></code>
+
   
 
 </details>
