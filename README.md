@@ -7,8 +7,7 @@ I am a post graduate computer scientist on a mission to one day become one of th
 - 🔧 Willing to contribute in opensource development projects.
 - 📓 Always looking for opportunities to join as a Computer Vision intern.
 
-<details><h3>Connect with me</h3>
-<br>
+## Connect with me
 
 <p align = "center">
 
@@ -17,7 +16,6 @@ I am a post graduate computer scientist on a mission to one day become one of th
   [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/thememorydealer/)
   [<img src="https://img.shields.io/badge/Stack Overflow-%23FE7A16.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white"/>](https://stackoverflow.com/users/10503240/od1n)
 </p>
-</details>
 
 ## My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thememorydealer&layout=compact&theme=graywhite)
