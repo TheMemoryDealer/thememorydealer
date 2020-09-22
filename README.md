@@ -38,7 +38,7 @@ I am a post graduate computer scientist on a mission to one day become one of th
 </details>
 
 <details>
-<summary><b>App dev stack:</b></summary>
+<summary><b>App dev tools:</b></summary>
 
 <p align = "center">
 
@@ -60,6 +60,25 @@ OR
 </p>
 
 </details>
+
+
+<details>
+<summary><b>Web dev tools:</b></summary>
+
+<p align = "center">
+
+  <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+  <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+  <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+  <code><a href="https://redux.js.org/introduction/getting-started" target="_blank"><img height="50" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/redux.svg"></a></code>
+  <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>or
+  <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a></code>or
+  <code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>or
+  <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
+</p>
+
+</details>
+
 <!--
 **TheMemoryDealer/thememorydealer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
