@@ -9,7 +9,6 @@ I am a post graduate computer scientist on a mission to one day become one of th
 
 ## Connect with me
 <details>
-<summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
 
