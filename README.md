@@ -1,6 +1,11 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thememorydealer&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-![github stats](https://github-readme-stats.vercel.app/api?username=thememorydealer&show_icons=true&theme=vue&line_height=20)
+## Hi 👋 I'm Maz! 
+
+I am a post graduate computer scientist on a mission to one day become one of the best experts in robotics vision systems. I am currently enlisted with the AgriFoRwArdS CDT in Agri-Food Robotics doing a MSc->PhD. 
+
+- 💻 Currently deep into Linux and ROS.
+- 🤝 Open for colaboration, try me.
+- 🔧 Willing to contribute in opensource development projects.
+- 📓 Always looking for opportunities to join as a Computer Vision intern.
 
 <!--
 **TheMemoryDealer/thememorydealer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
