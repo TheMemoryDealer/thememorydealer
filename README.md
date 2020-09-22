@@ -16,6 +16,16 @@ I am a post graduate computer scientist on a mission to one day become one of th
   [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/thememorydealer/)
   [<img src="https://img.shields.io/badge/Stack Overflow-%23FE7A16.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white"/>](https://stackoverflow.com/users/10503240/od1n)
 </p>
+
+## My Stats
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
+
+
 <!--
 **TheMemoryDealer/thememorydealer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
