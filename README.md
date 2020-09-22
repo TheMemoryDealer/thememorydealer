@@ -30,7 +30,6 @@ I am a post graduate computer scientist on a mission to one day become one of th
 
   <code><a href="https://ubuntu.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
   <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-  or
   <code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.theconstructsim.com/wp-content/uploads/2015/10/rosLarge.png"></a></code>
   <code><a href="https://www.raspberrypi.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
 </p>
