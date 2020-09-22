@@ -36,7 +36,15 @@ I am a post graduate computer scientist on a mission to one day become one of th
 
 </details>
 
+<details>
+<summary><b>App dev stack:</b></summary>
 
+<p align = "center">
+
+  <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></a></code>
+</p>
+
+</details>
 <!--
 **TheMemoryDealer/thememorydealer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
