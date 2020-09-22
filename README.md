@@ -1,4 +1,4 @@
-## Hi 👋 I'm Maz, but you probably know me as thememorydealer
+## Hi 👋 I'm Maz, but you probably know me as TheMemoryDealer
 
 I am a post graduate computer scientist on a mission to one day become one of the best experts in robotics vision systems. I am currently enlisted with the AgriFoRwArdS CDT in Agri-Food Robotics doing a MSc->PhD. 
 
