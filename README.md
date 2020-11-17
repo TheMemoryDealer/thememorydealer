@@ -17,6 +17,11 @@ I am a post graduate computer scientist on a mission to one day become one of th
   [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/thememorydealer/)
   [<img src="https://img.shields.io/badge/Stack Overflow-%23FE7A16.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white"/>](https://stackoverflow.com/users/10503240/od1n)
 </p>
+
+## Stats
+![Harry-Rogers github stats](https://github-readme-stats.vercel.app/api?username=Harry-Rogers&theme=dark&show_icons=true)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Rogers&layout=compact&hide=visualbasic)](https://github.com/Harry-Rogers/github-readme-stats)
+
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thememorydealer&layout=compact&theme=graywhite&&langs_count=10)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thememorydealer&show_icons=true&theme=graywhite&line_height=20&count_private=true)
